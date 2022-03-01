@@ -1,2 +1,2 @@
 # tmdb-movies
-Analyzing data for tmdb-movies and get insights
+Analyze data for tmdb-movies for different movies list and get insights
